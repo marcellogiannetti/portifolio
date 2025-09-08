@@ -492,3 +492,26 @@ span{
   left: 540px;   
   font-size: xx-large;
 }
+
+#relogio {
+  font-family: 'Courier New', monospace;
+  font-size: 30px;
+  color: #4CAF50;
+  font-weight: bold;
+}
+
+.rel{
+    font-size: 25px;
+}
+
+.btn{position: relative;
+  top: 0px;
+  left: 0px;   
+}
+
+.for{
+   position: relative;
+  top: -265px;
+  left: 540px;   
+  font-size: xx-large; 
+}
